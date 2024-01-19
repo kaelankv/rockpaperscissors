@@ -1,0 +1,1 @@
+A simple rock paper scissors game played in an IDE console. It opens up a new window giving the player an option to choose between rock, paper, scissors, then matches your choice against the CPU's Scores are outputted to a text file called "scores.txt."
